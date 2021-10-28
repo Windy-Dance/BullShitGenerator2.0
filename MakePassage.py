@@ -5,7 +5,7 @@ import read
 import json
 import random
 
-boshes = read.readJSON("sentces.json")
+boshes = read.readJSON("data.json")
 bosh = boshes['bosh']
 famous = boshes['famous']
 pb = boshes['poemb']
